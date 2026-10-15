@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grweston.github.io/first-season-iowa/sitemap.xml
